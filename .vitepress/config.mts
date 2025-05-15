@@ -21,7 +21,10 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'file', link: '/file' },
           { text: 'FormData', link: '/FormData' },
-          { text: 'multer', link: '/multer' }
+          { text: 'multer', link: '/multer' },
+          { text: 'elementplus目录结构', link: '/elementplus' },
+          { text: 'DefineComponent', link: '/DefineComponent' },
+          { text: 'sfc类型声明', link: '/sfcType' }
         ]
       }
     ],
