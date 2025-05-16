@@ -1,1 +1,0 @@
-import{_ as i,c as a,o as t,ag as n}from"./chunks/framework.Ddj9Gik_.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"埋点笔记.md","filePath":"埋点笔记.md","lastUpdated":null}'),l={name:"埋点笔记.md"};function h(e,s,p,k,r,d){return t(),a("div",null,s[0]||(s[0]=[n("",623)]))}const E=i(l,[["render",h]]);export{g as __pageData,E as default};

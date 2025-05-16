@@ -25,8 +25,8 @@ export default defineConfig({
           { text: 'elementPlus目录结构', link: '/elementPlus' },
           { text: 'DefineComponent', link: '/DefineComponent' },
           { text: 'sfc类型声明', link: '/sfcType' },
-          { text: '埋点核心代码', link: '/埋点核心代码' },
-          { text: '埋点笔记', link: '/埋点笔记' },
+          { text: '埋点核心代码', link: '/tracking-code' },
+          { text: '埋点笔记', link: '/tracking-note' },
         ]
       }
     ],
