@@ -22,9 +22,11 @@ export default defineConfig({
           { text: 'file', link: '/file' },
           { text: 'FormData', link: '/FormData' },
           { text: 'multer', link: '/multer' },
-          { text: 'elementplus目录结构', link: '/elementplus' },
+          { text: 'elementPlus目录结构', link: '/elementPlus' },
           { text: 'DefineComponent', link: '/DefineComponent' },
-          { text: 'sfc类型声明', link: '/sfcType' }
+          { text: 'sfc类型声明', link: '/sfcType' },
+          { text: '埋点核心代码', link: '/埋点核心代码' },
+          { text: '埋点笔记', link: '/埋点笔记' },
         ]
       }
     ],
