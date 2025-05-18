@@ -10,23 +10,28 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '埋点代码', link: '/tracking-code' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '文件上传',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'file', link: '/file' },
-          { text: 'FormData', link: '/FormData' },
-          { text: 'multer', link: '/multer' },
-          { text: 'elementPlus目录结构', link: '/elementPlus' },
-          { text: 'DefineComponent', link: '/DefineComponent' },
-          { text: 'sfc类型声明', link: '/sfcType' },
+          { text: '文件上传代码', link: '/file-code' },
+          { text: '文件上传笔记', link: '/file-note' }
+        ]
+      },
+      {
+        text: '埋点',
+        items: [
           { text: '埋点核心代码', link: '/tracking-code' },
           { text: '埋点笔记', link: '/tracking-note' },
+        ]
+      },
+      {
+        text: 'jQuery',
+        items: [
+          { text: 'jQuery代码', link: '/jq-code' }
         ]
       }
     ],
