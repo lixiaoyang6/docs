@@ -33,6 +33,13 @@ export default defineConfig({
         items: [
           { text: 'jQuery代码', link: '/jq-code' }
         ]
+      },
+      {
+        text: 'javascript',
+        items: [
+          { text: 'js第一部分', link: '/js' },
+          { text: 'js第二部分', link: '/js2' }
+        ]
       }
     ],
 
