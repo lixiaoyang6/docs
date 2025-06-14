@@ -15,9 +15,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'vue源码学习',
+        text: 'vue',
         items: [
-          { text: 'vue源码学习', link: '/vue-code-learn' },
+          { text: 'vue源码学习', link: '/vue-core-learn' },
         ]
       },
       {
