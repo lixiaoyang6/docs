@@ -15,6 +15,12 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'vue源码学习',
+        items: [
+          { text: 'vue源码学习', link: '/vue-code-learn' },
+        ]
+      },
+      {
         text: '文件上传',
         items: [
           { text: '文件上传代码', link: '/file-code' },
